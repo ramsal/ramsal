@@ -9,7 +9,7 @@
 - 🏴‍☠️ I’m currently working on [BeeHackers](https://beehackers.es)
 - 🥷 I’m looking to collaborate on [OWASP Seville Chapter](https://owasp.org/www-chapter-sevilla)
 - 📫 How to reach me: [mypublicinbox](https://mypublicinbox.com/ramsalado)
-- 🐦 How to reach me: [twitter](https://twitter.com/ramon_salado))
+- 🐦 How to reach me: [twitter](https://twitter.com/ramon_salado)
 <br><br>
 
 ## 🛠️ Skills
