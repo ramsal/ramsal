@@ -15,6 +15,6 @@
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,c,py,arduino,kubernetes,grafana,github,aws,gcp,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,raspberrypi,md,bash,c,py,arduino,elasticsearch,grafana,obsidian,github,aws,gcp,cloudflare)](https://skillicons.dev)
 
 
